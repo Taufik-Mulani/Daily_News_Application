@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.d-flex input{
+  margin-top: 50px;
+  width: 100%;
+  height: 50px;
+  border-radius: 20px;
+  font-size: 20px;
+  padding-left: 10px;
+}
+
